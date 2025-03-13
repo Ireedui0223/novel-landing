@@ -216,7 +216,7 @@ const images = [
 ]
 
 const getImagePath = logo => {
-  return `/_nuxt/public/images/mining/${logo}`
+  return `//images/mining/${logo}`
 }
 </script>
 

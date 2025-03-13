@@ -208,7 +208,7 @@ const whiteLogos = [
 ]
 
 const getImagePath = logo => {
-  return `/_nuxt/public/images/logo/${logo}`
+  return `/images/logo/${logo}`
 }
 </script>
 
