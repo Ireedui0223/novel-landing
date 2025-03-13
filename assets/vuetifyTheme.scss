@@ -1,0 +1,11 @@
+$font: 'arial', sans-serif;
+$heading-font: 'Montserrat', sans-serif;
+
+@use 'vuetify' with (
+  $body-font-family: $font,
+  $heading-font-family: $heading-font
+);
+
+html {
+  scroll-behavior: smooth;
+}

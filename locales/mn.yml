@@ -1,0 +1,68 @@
+# Main menu items texts
+aboutLink: 'Бидний тухай'
+serviceLink: 'Үйлчилгээ'
+contactLink: 'Холбоо барих'
+# global
+siteTopTitle: "Artist's gallery"
+# home page
+homeMetaTitle: "Artist's gallery"
+homeMetaDescription: 'Personal gallery'
+homeTopTitle: 'Home top title'
+homeIntroText: 'Home text'
+# artist page
+artistMetaTitle: 'Artist name'
+artistMetaDescription: 'Biography'
+artistTopTitle: 'Artist top title'
+artistIntroText: 'Artist text'
+# gallery page
+galleryMetaTitle: 'Gallery of artwork'
+galleryMetaDescription: 'List or paintings'
+galleryTopTitle: 'Gallery top title'
+galleryIntroText: 'Gallery text'
+# error
+errorPageMessage: 'Page not found'
+backToHomePage: 'Back to home page'
+errorGalleryMessage: 'Not found'
+backToGallery: 'Back to gallery'
+
+title:
+  companyName: "Новел грүпп"
+  groupCompanies: "Новел групп компаниуд"
+
+description:
+  company: "Өнөөдийг хүртэл манай баг хамт олон олон амжилтын ард бидний итгэлцэл,
+          хариуцлага, харилцагчдаа хүндэтгэх, хэргээс оруулах бүхий л хүчээ
+          дайчлан, дэмжих тусламжаа цаг алдалгүй хүргэж ирлээ."
+
+button:
+  details: "Дэлгэрэнгүй"
+
+company:
+  investment: "НОВЕЛ ИНВЕСТМЕНТ ҮЦК ХХК"
+  leasing: "НОВЕЛ ЛИЗИНГ ХХК"
+  exchange: "МОНГОЛЫН САНХҮҮГИЙН БИРЖ ХХК"
+  bayalagFeed: "БАЯЛАГ ФИЙД ХХК"
+  mining: "НОВЕЛ МАЙНИНГ ХХК"
+  bayalagTahia: "БАЯЛАГ ТАХИА ХХК"
+  uyugUndug: "ӨЕГ ӨНДӨГ ХХК"
+  malchin: "МАЛЧИН ТЕЛЕВИЗ ХХК"
+
+desc:
+  investment: "Үнэт цаасны зах зээл Брокер, диллер, андеррейтер, хөрөнгө оруулалтын үйлчилгээ"
+  leasing: "Гадаад худалдаа, хүнд машин механизм, уул уурхайн том оврын дугуй, сэлбэг тос тосолгоо засвар, уул уурхайн хөрс хуулалт нүүрс олборлолт"
+  exchange: "атын хөрөнгө оруулалтын сан болон хувийн хөрөнгө оруулалтын сангуудыг байгуулж хөрөнгө оруулалт татан хөрөнгө оруулагчид үр өгөөж хуваарилах"
+  bayalagFeed: "Эрчимжсэн мал аж ахуйн хүнсний тэжээл, уураг, амин дэм, витамиаар баялаг тэжээлийн үйлдвэрлэл"
+  mining: "Хөрс хулалт, нүүрс олборлолт"
+  bayalagTahia: "Тахианы мах үйлдвэрлэл, борлуулалт"
+  uyugUndug: "Өндөгний үйлдвэрлэл"
+  malchin: "Өргөн нэвтрүүлгийн суваг"
+
+stats:
+  year: "Жил"
+  clients: "Харилцагч нар"
+  partners: "Хатрагч байгууллага"
+  trust: "Амлалт"
+  started: "Хүсэл тэмүүллээр эхэлсэн жил"
+  satisfiedClients: "Манай бүтээгдэхүүнд итгэж, хамтран ажилдаг харилцагч"
+  partnerCompanies: "Итгэж үйлчлүүлдэг байгууллагууд"
+  trustQuality: "Тогтвортой байдал, хариуцлага, туршлага"
