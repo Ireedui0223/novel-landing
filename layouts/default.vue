@@ -54,7 +54,7 @@ const localPath = useLocalePath()
 
 <style>
 .refined-acoustic-background {
-  background: url('@/public/images/background.jpg');
+  background: url('@/public/images/khee-lazy.png');
   background-repeat: repeat;
   width: 100%;
 }

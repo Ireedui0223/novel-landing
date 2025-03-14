@@ -11,7 +11,7 @@
     <v-row class="mt-4">
       <v-col cols="12" md="6">
         <h3
-          class="text-primary text-h3 text-uppercase mb-4 pb-2 lower-line text-center text-md-left"
+          class="text-primary text-h3 font-weight-bold text-uppercase mb-4 pb-2 lower-line text-center text-md-left"
         >
           {{ $t('title.companyName') }}
         </h3>
